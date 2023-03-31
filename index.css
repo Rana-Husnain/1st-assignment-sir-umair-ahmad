@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(207, 204, 204);
+
+}
+
+.allbtn{
+    font-family: cursive;
+    font-size: 41%;
+    background-color: red;
+}
+
+.main{
+    text-align: center;
+    font-size: 58px;
+
+}
+h1{
+    text-align: center;
+}
+
+#Statementbox{
+
+    border: 1px solid;
+    padding: 50px;
+    text-align: center;
+   
+    font-size: larger;
+
+
+}
+
+#Outputbox{
+    
+    border: 1px solid;
+    padding: 50px;
+    
+}
+
+.btn{
+
+    margin-left: 45%;
+    margin-top: 2%;
+    font-size: 21px;
+}
+
+.btn2{ margin-left: 45%;
+    margin-top: 2%;
+    font-size: 21px;
+}
+
